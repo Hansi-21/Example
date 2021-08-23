@@ -1,0 +1,30 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap'); */
+
+.main-box{
+    border-radius: 5px;
+    padding: 50px;
+    box-shadow: 1px 1px 4px 0px rgb(44, 43, 44);
+    
+}
+.box-right{
+    border-radius: 5px;
+    padding: 50px;
+   
+}
+.box-left{
+    border-radius: 5px;
+    padding: 50px;
+    background-image: url(/src/asserts/sign.jpg);
+    background-size: cover;
+    
+}
+.login-label{
+    color: rgb(6, 6, 124);
+    font-family: 'Satisfy', cursive;
+}
+
+.signup-label{
+    font-style: italic;
+    cursor: pointer;
+}
+
